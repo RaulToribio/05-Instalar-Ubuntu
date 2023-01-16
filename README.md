@@ -1,5 +1,3 @@
-# 05-Instalar-Ubuntu
-
 # Introducción
 
 Una máquina virtual es un software que simula un sistema informático completo, incluyendo hardware, como procesador, memoria y dispositivos de entrada y salida. Esto permite ejecutar diferentes sistemas operativos y aplicaciones en una sola máquina física, aislándolos entre sí. Esto es útil para probar aplicaciones en diferentes entornos, ejecutar sistemas operativos antiguos o incluso ejecutar aplicaciones que no son compatibles con el sistema operativo del host. Algunos ejemplos de software de máquina virtual son VirtualBox, VMware y Hyper-V.
