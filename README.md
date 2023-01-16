@@ -2,13 +2,9 @@
 
 # Introducción
 
-El concepto de máquina virtual puede definirse como equipos virtuales o equipos definidos por software dentro de servidores físicos, donde solo existen como código. Una máquina virtual (Virtual machine en inglés abreviado VM) es una réplica, en cuanto a comportamiento, de un equipo físico, como una PC, teléfono inteligente o un servidor, etc.
+Una máquina virtual es un software que simula un sistema informático completo, incluyendo hardware, como procesador, memoria y dispositivos de entrada y salida. Esto permite ejecutar diferentes sistemas operativos y aplicaciones en una sola máquina física, aislándolos entre sí. Esto es útil para probar aplicaciones en diferentes entornos, ejecutar sistemas operativos antiguos o incluso ejecutar aplicaciones que no son compatibles con el sistema operativo del host. Algunos ejemplos de software de máquina virtual son VirtualBox, VMware y Hyper-V.
 
-[Wikipedia (2023)](https://es.wikipedia.org/wiki/M%C3%A1quina_virtual)
-
-Ubuntu es una distribución Linux basada en Debian GNU/Linux, que incluye principalmente software libre y de código abierto.
-
-[Wikipedia (2023)](https://es.wikipedia.org/wiki/Ubuntu)
+Ubuntu es un sistema operativo de código abierto basado en Linux. Fue lanzado por primera vez en 2004 y se caracteriza por su facilidad de uso, su enfoque en la accesibilidad y su amplia compatibilidad con una variedad de dispositivos y hardware. Ubuntu se utiliza comúnmente como sistema operativo en computadoras de escritorio y servidores, y también está disponible en versiones para teléfonos móviles y tabletas.
 
 # Material Necesario
 
