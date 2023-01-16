@@ -1,5 +1,3 @@
-# 05-Instalar-Ubuntu
-
 # Introducción
 
 El concepto de máquina virtual puede definirse como equipos virtuales o equipos definidos por software dentro de servidores físicos, donde solo existen como código. Una máquina virtual (Virtual machine en inglés abreviado VM) es una réplica, en cuanto a comportamiento, de un equipo físico, como una PC, teléfono inteligente o un servidor, etc.
