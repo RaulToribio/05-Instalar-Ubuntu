@@ -95,10 +95,6 @@ Iniciará el proceso de instalación del sistema operativo.
 
 Reiniciar la máquina virtual una vez terminada la instalación del sistema operativo.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/05-Instalar-Ubuntu/main/Im%C3%A1genes/Instalar%20Ubuntu%20(15).png](https://raw.githubusercontent.com/RaulToribio/05-Instalar-Ubuntu/main/Im%C3%A1genes/Instalar%20Ubuntu%20(15).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
